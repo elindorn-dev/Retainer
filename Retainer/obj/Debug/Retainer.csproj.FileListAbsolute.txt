@@ -1,0 +1,11 @@
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\bin\Debug\Retainer.exe.config
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\bin\Debug\Retainer.exe
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\bin\Debug\Retainer.pdb
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\obj\Debug\Retainer.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\obj\Debug\Retainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\obj\Debug\Retainer.MainForm.resources
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\obj\Debug\Retainer.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\obj\Debug\Retainer.csproj.GenerateResource.cache
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\obj\Debug\Retainer.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\obj\Debug\Retainer.exe
+C:\Users\Dmitry\Desktop\Projects\Retainer\Retainer\obj\Debug\Retainer.pdb
