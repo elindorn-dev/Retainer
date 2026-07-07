@@ -86,5 +86,20 @@
   <ItemGroup>
     <None Include="Resources\Close_button.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconButton5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconButton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconButton2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconButton3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\human_health.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

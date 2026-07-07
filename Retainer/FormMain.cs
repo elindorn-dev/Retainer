@@ -23,7 +23,7 @@ namespace Retainer
             if (menuActive)
             {
                 SideMenu.Width -= 10;
-                if (SideMenu.Width < 45)
+                if (SideMenu.Width < 58)
                 {
                     menuActive = false;
                     timerMain.Stop();
@@ -32,7 +32,7 @@ namespace Retainer
             else
             {
                 SideMenu.Width += 10;
-                if (SideMenu.Width > 200)
+                if (SideMenu.Width > 199)
                 {
                     menuActive = true;
                     timerMain.Stop();
@@ -40,9 +40,14 @@ namespace Retainer
             }
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void btnMenu_Click(object sender, EventArgs e)
         {
             timerMain.Start();
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
