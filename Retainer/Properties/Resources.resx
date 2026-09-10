@@ -121,8 +121,14 @@
   <data name="Close_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Close_button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="changes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\changes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Hamburger_icon.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Hamburger_icon.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconButton5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconButton5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="iconButton3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\iconButton3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,10 +139,10 @@
   <data name="iconButton2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\iconButton2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="iconButton5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iconButton5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="human_health" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\human_health.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="change" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\change.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
